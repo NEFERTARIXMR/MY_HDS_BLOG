@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2024-06-06T16:18:55+10:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2024-06-06-i-love-bolgging/",
+    "title": "I love Blogging",
+    "description": "except i never do",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2024-06-06",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-06-06T16:46:15+10:00",
+    "input_file": "i-love-bolgging.knit.md"
   }
 ]
